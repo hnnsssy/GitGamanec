@@ -10,6 +10,7 @@ namespace GitGamanec
     {
         static void Main(string[] args)
         {
+            BusinessCardLib.BusinessCard businessCard = new BusinessCardLib.BusinessCard();
             Money.Money m = new Money.Money();
         }
     }
