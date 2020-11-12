@@ -10,7 +10,7 @@ namespace GitGamanec
     {
         static void Main(string[] args)
         {
-
+            Money.Money m = new Money.Money();
         }
     }
 }
