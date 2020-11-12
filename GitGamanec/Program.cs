@@ -12,6 +12,7 @@ namespace GitGamanec
         {
             BusinessCardLib.BusinessCard businessCard = new BusinessCardLib.BusinessCard();
             Money.Money m = new Money.Money();
+            Console.WriteLine("wrod");
         }
     }
 }
